@@ -1,7 +1,7 @@
 from utils import add
 
 def main():
-    print("Hello Git!")
+    print("Hello World!")
     result = add(3, 5)
     print("3 + 5 =", result)
 
